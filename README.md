@@ -1,7 +1,8 @@
 # Go Map Sample
 
 ## Map
-
+A data structure similar to an associative array.  
+It can hold any key and any value.  
 
 ## Code
 ```Go
